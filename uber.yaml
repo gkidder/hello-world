@@ -2,8 +2,8 @@
 # as a demonstration of an API spec in YAML
 swagger: '2.0'
 info:
-  title: Uber API
-  description: Move your app forward with the Uber API
+  title: Enviance API
+  description: Move your app forward with the Enviance API
   version: "1.0.0"
 # the domain of the service
 host: api.enviance.com
